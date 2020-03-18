@@ -1,0 +1,103 @@
+﻿  AABB.cpp
+  OBJModel.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Triangle.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(64): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  box.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(60): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  BVH_Node.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Constant_Medium.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(64): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\constant_medium.cpp(15): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  diffuse_Light.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(64): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  hitable_list.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\hitable_list.cpp(11): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\hitable_list.cpp(50): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  image_texture.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\image_texture.cpp(5): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\image_texture.cpp(6): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\image_texture.cpp(23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\image_texture.cpp(24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\image_texture.cpp(25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Lambertian.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(64): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\lambertian.cpp(22): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  MovingSphere.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ONB.cpp
+  sphere.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\sphere.cpp(51): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\sphere.cpp(54): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ToolsFunction.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.cpp(7): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.cpp(88): warning C4244: “初始化”: 从“unsigned __int64”转换到“unsigned int”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.cpp(130): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.cpp(142): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.cpp(143): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  translate.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\translate.cpp(32): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  vec3.cpp
+  XY_Rect.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(60): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.cpp(31): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.cpp(76): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.cpp(121): warning C4305: “参数”: 从“double”到“float”截断
+  源.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\toolsfunction.h(42): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\camera.h(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(26): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\pdf.h(64): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\dielectrics.h(38): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\perlin.h(67): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\perlin.h(68): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\perlin.h(69): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\noise_texture.h(11): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(39): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(60): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(43): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(89): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(89): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(90): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(95): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(99): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(99): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(107): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(114): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(156): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(157): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(158): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(172): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(193): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(194): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(206): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(217): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(219): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(223): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(227): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(232): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(260): warning C4101: “list”: 未引用的局部变量
+  正在生成代码
+e:\raytracer\simpleraytracer\simpleraytracer\translate.cpp(28): warning C4715: “translate::bounding_box”: 不是所有的控件路径都返回值
+  All 468 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  SimpleRayTracer.vcxproj -> E:\RayTracer\SimpleRayTracer\x64\Release\SimpleRayTracer.exe

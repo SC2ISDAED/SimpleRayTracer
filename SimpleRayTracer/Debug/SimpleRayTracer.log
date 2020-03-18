@@ -1,0 +1,29 @@
+﻿  diffuse_Light.cpp
+  MovingSphere.cpp
+  XY_Rect.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  源.cpp
+e:\raytracer\simpleraytracer\simpleraytracer\camera.h(22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\camera.h(41): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\dielectrics.h(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\perlin.h(67): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\perlin.h(68): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\perlin.h(69): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\perlin.h(97): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\noise_texture.h(11): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\xy_rect.h(18): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(34): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(65): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(66): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(66): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(67): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(72): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(72): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(76): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(76): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(84): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(84): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(91): warning C4305: “参数”: 从“double”到“float”截断
+e:\raytracer\simpleraytracer\simpleraytracer\源.cpp(144): warning C4101: “list”: 未引用的局部变量
+  正在生成代码...
+  SimpleRayTracer.vcxproj -> E:\RayTracer\SimpleRayTracer\Debug\SimpleRayTracer.exe

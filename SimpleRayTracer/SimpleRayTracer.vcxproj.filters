@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="源.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="vec3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sphere.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MovingSphere.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hitable_list.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BVH_Node.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AABB.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ToolsFunction.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="image_texture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="diffuse_Light.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="XY_Rect.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="box.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="translate.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Constant_Medium.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Lambertian.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ONB.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="OBJModel.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="vec3.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ray.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sphere.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hitable_list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="hitable.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Lambertian.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="metal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ToolsFunction.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Dielectrics.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MovingSphere.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AABB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BVH_Node.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="constant_texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="checker_texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="perlin.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="noise_texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stb_image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="image_texture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="diffuse_Light.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="XY_Rect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Flip_Normals.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="box.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="translate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Constant_Medium.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Isotropic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ONB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pdf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjModel.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
